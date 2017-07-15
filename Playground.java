@@ -9,8 +9,6 @@ public class Playground
     {
         /*
         
-        //yo mama so fat
-        
         System.out.println("Hello, World!\n");
         
         double x = 6.79;
